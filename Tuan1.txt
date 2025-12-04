@@ -1,0 +1,16 @@
+1) Mong muốn và định hướng của bạn sau khi học xong môn học là gì?
+
+Trả lời:  Sau khi học xong môn Lập trình thiết bị di động của thầy Trương Quan Tuấn
+          thì em mong muốn sẽ nắm được kiến thức nền tảng để có thể tự mình phát triển
+          1 ứng dụng cho riêng mình trên thiết bị di động. Định hướng tiếp theo có thể
+          tiếp tục học sâu hơn Flutter hoặc Kotlin để có thể hoàn thiện kỹ năng và có đủ kiến thức
+          để đi thực tập sớm.
+
+2) Theo bạn, trong tương lai gần (10 năm) lập trình di động có phát triển không? Giải thích tại sao?
+
+Trả lời: Em nghĩ là ít nhất 10 năm tới thì lập trình di động còn phát triển hơn nữa bởi vì:
+         Ai ai cũng sở hữu và sử dụng điện thoại di động cả, đặt biệt là hiện nay nhu cầu làm
+         việc từ xa lại càng trở nên phổ biến nên các doanh nghiệp sẽ ngày càng cần ứng dụng mobile
+         để tiếp cận khác hàng.
+
+
