@@ -1,7 +1,6 @@
 1) Mong muốn và định hướng của bạn sau khi học xong môn học là gì?
 
-Trả lời:  Sau khi học xong môn Lập trình thiết bị di động của thầy Trương Quan Tuấn
-          thì em mong muốn sẽ nắm được kiến thức nền tảng để có thể tự mình phát triển
+Trả lời:  Sau khi học xong thì em mong muốn sẽ nắm được kiến thức nền tảng để có thể tự mình phát triển
           1 ứng dụng cho riêng mình trên thiết bị di động. Định hướng tiếp theo có thể
           tiếp tục học sâu hơn Flutter hoặc Kotlin để có thể hoàn thiện kỹ năng và có đủ kiến thức
           để đi thực tập sớm.
