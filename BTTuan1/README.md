@@ -2,4 +2,6 @@
 
 1. Tạo giao diện app có avatar và tên đơn giản
 
-![Demo](demo.png)
+<p>
+  <img src="demo.png" width="300">
+</p>
