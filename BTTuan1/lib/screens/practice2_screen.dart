@@ -40,10 +40,9 @@ class _Practice2ScreenState extends State<Practice2Screen> {
           padding: const EdgeInsets.all(20),
           child: Column(
             children: [
-              // 🔽 ĐẨY FORM XUỐNG GẦN GIỮA
               const SizedBox(height: 250),
 
-              // ===== FORM (VỊ TRÍ CỐ ĐỊNH) =====
+
               Column(
                 children: [
                   const Text(
@@ -110,7 +109,7 @@ class _Practice2ScreenState extends State<Practice2Screen> {
 
               const SizedBox(height: 20),
 
-              // ===== DANH SÁCH (BÊN DƯỚI) =====
+
               Expanded(
                 child: ListView.builder(
                   itemCount: numbers.length,

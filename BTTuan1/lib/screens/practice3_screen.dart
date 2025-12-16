@@ -46,7 +46,6 @@ class _Practice3ScreenState extends State<Practice3Screen> {
       return;
     }
 
-    // 4️⃣ Tính toán
     double res;
 
     switch (selectedOp) {
