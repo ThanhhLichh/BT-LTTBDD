@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'screens/profile_screen.dart';
-import 'screens/practice2_screen.dart';
-import 'screens/practice3_screen.dart';
-import 'screens/practice4_screen.dart';
+
+import 'screens/choose_list_type_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -13,10 +11,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Practice4Screen(),
-
+      title: 'List Performance Demo',
+      home: const ChooseListTypeScreen(),
     );
   }
 }

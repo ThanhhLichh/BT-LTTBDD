@@ -1,0 +1,54 @@
+1. Thế nào là Nullable?
+
+Nullable là biến có thể mang giá trị null (không có giá trị, trống)
+bên cạnh giá trị hợ lệ thông thường.
+
+2. Khi nào nên / không nên dùng Nullable
+
+Trường hợp             |              Nên                 |         Không nên
+
+Trạng thái bán đầu     |    Dữ liệu chưa có giá trị       |       Dữ liệu có ngay
+
+Người dùng nhập        |    Chưa nhập dữ liệu             |       Bắt buộc phải nhập
+
+Dự liệu API/ DB        |    Có thể trả về null            |       Luôn tồn tại
+
+Đối tượng              |    Chưa khởi tạo                 |       Luôn khởi tạo
+
+Xử lý logic            |    Không ảnh hưởng tính toán     |       Dùng cho tính toán
+
+Độ an toàn             |    Cần kiểm tra trước khi dùng   |       Dùng trực tiếp
+
+3. Các cách xử lý Null phổ biến
+a. Toán tử ?
+
+Dùng để khai báo biến có thể nhận giá trị null.
+Ví dụ:
+var age: Int? = null
+
+b. Toán tử ?.
+
+Chỉ thực hiện thao tác khi biến không null.
+Nếu biến là null, biểu thức sẽ trả về null và không gây lỗi.
+Ví dụ:
+val length = name?.length
+
+c. Toán tử ?:
+
+Dùng để cung cấp giá trị mặc định khi biến bị null.'
+Ví dụ:
+
+val displayCity = city ?: "Unknown"
+
+d. Hàm .let
+
+Dùng để thực hiện một khối lệnh chỉ khi biến không null.
+Ví dụ:
+name?.let {
+    println("Tên là $it")
+}
+
+e. Toán tử !!
+
+Đây là cách ép chương trình hiểu rằng biến này chắc chắn không null.
+

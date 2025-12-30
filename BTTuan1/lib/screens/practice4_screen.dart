@@ -17,7 +17,7 @@ class _Practice4ScreenState extends State<Practice4Screen> {
     setState(() {
       if (email.isEmpty) {
         message = "Email không hợp lệ";
-      } else if (!email.contains("@")) {
+      } else if (email.split("@").length != 2) {
         message = "Email không đúng định dạng";
       } else {
         message = "Bạn đã nhập email hợp lệ";
