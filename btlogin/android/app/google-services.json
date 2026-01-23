@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "958637124532",
+    "project_id": "bt-login-flutter",
+    "storage_bucket": "bt-login-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958637124532:android:1baa441f36ac93c16ae0e1",
+        "android_client_info": {
+          "package_name": "com.example.bt_login_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958637124532-g7t9uc5em4i06tgejdmrclv271pvequ0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi7qVloa01ZUTCetwdHkoug27uP244gHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958637124532-g7t9uc5em4i06tgejdmrclv271pvequ0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958637124532-pi9j33f13gnr8dce6jhu1f7vo3erq8f4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.btlogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958637124532:android:b5841f0931c34e936ae0e1",
+        "android_client_info": {
+          "package_name": "com.example.btlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958637124532-golc4kmglftdfuc1m438rfoo8jebijf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.btlogin",
+            "certificate_hash": "c0dbdbb7e3bb5c2187eb3c805cdea90b4433d8d6"
+          }
+        },
+        {
+          "client_id": "958637124532-g7t9uc5em4i06tgejdmrclv271pvequ0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi7qVloa01ZUTCetwdHkoug27uP244gHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958637124532-g7t9uc5em4i06tgejdmrclv271pvequ0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958637124532-pi9j33f13gnr8dce6jhu1f7vo3erq8f4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.btlogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
