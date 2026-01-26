@@ -6,8 +6,8 @@ Repo lưu trữ các bài tập Flutter theo từng tuần của môn **Lập Tr
 
 ## 📂 Danh sách bài tập
 
-- **Tuần 1:** [Xem bài](BTTuan1 (10 bai))
+- **Tuần 1:** [Xem bài](BTTuan1(10 bai))
 
 <p>
-  <img src="BTTuan1 (10 bai)/demo.png" width="300">
+  <img src="BTTuan1(10 bai)/demo.png" width="300">
 </p>
