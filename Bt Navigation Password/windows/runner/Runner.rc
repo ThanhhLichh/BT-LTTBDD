@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "bttuan3" "\0"
+            VALUE "FileDescription", "Bt Navigation Password" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "bttuan3" "\0"
+            VALUE "InternalName", "Bt Navigation Password" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "bttuan3.exe" "\0"
-            VALUE "ProductName", "bttuan3" "\0"
+            VALUE "OriginalFilename", "Bt Navigation Password.exe" "\0"
+            VALUE "ProductName", "Bt Navigation Password" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
